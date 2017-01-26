@@ -1,4 +1,4 @@
-#Git Team Workflow Part 1
+#Git Collaboration 101
 
 ### Objectives
 *After this lesson, students will be able to:*
