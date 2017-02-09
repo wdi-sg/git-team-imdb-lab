@@ -31,7 +31,7 @@ You will need to work your way through creating controllers and models, and then
 To start:
 
 - One student should fork and clone the [starter-code](starter-code) to their GitHub
-- Add the second student as a contributor to this repository
+- Add the second student as a collaborator to this repository
 - The second student should clone the newly-forked repo, so they have a local copy and can start working
 
 To practice using Git/GitHub as a team, you'll each take one model and build it on feature branches:
