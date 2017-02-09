@@ -4,4 +4,5 @@ class Actor < ActiveRecord::Base
   def age
     self.year_of_birth - Time.now.year
   end
+  
 end
